@@ -1,0 +1,8 @@
+{
+  "generated_at": "2026-05-25T05:07:28.115369Z",
+  "movie_count": 2000,
+  "category_count": 10,
+  "detail_page_count": 2000,
+  "root_pages": 4,
+  "note": "Static generation summary file only; website pages do not display build rules."
+}
